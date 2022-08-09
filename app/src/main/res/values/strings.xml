@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_category">INI KATEGORY FRAGMENT</string>
+    <string name="this_profile">INI ACTIVITY PROFILE</string>
+</resources>
